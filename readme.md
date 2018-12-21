@@ -1,4 +1,4 @@
-#Repository name
+# ssafy_seoul_10
 
 ## Abstract
 * 이 프로젝트는 영국에서 시작되어....
